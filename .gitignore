@@ -1,0 +1,5 @@
+greetClient/greetClient/bin/
+greetClient/greetClient/obj/
+myGrpcService/bin/
+myGrpcService/obj/
+.vs/
